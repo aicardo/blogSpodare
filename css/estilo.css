@@ -2,4 +2,14 @@ body{
 	text-align:center;
 	font-family:Arial;
 	color:blue;
+	font-size:10px;
+}
+
+#container{
+	width:70%;
+	text-align:left;
+	border:1px solid; 
+	
+
+
 }
